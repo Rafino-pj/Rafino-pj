@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou o Felipe Rafino 👋
 
-<!--
-**Rafino-pj/Rafino-pj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação no UNIFAGOC
 
-Here are some ideas to get you started:
+Tenho grande interesse em desenvolvimento de software, algoritmos, estruturas de dados e cybersecurity. Busco constantemente consolidar conceitos fundamentais da computação por meio de projetos práticos, códigos limpos e boas práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objetivos
+- 🚀 Buscar minha primeira oportunidade de **estágio na área de Desenvolvimento / TI**.
+- 🛠️ Aprofundar conhecimentos em **C, C++ e Python**, além de arquitetura e lógica.
+- 📚 Desenvolver projetos práticos e manter um portfólio organizado no GitHub.
+
+## 🛠️ Tecnologias e Ferramentas
+
+Linguagens & Fundamentos:
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Ambiente & Ferramentas:
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📌 Projetos em Destaque
+- **[Estruturas de Dados em C](https://github.com/seu-usuario/seu-repositorio):** Implementações práticas de Árvores (ABB e AVL), Filas, Listas Encadeadas e Pilhas.
+
+### 📬 Contato
+- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- ✉️ **E-mail:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
