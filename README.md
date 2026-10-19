@@ -27,5 +27,6 @@ Ambiente & Ferramentas:
 - **[Estruturas de Dados em C](https://github.com/seu-usuario/seu-repositorio):** Implementações práticas de Árvores (ABB e AVL), Filas, Listas Encadeadas e Pilhas.
 
 ### 📬 Contato
-- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- ✉️ **E-mail:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/felipe-undefined-ba39b83b4/
+- ✉️ **E-mail:** rafinofelipe@gmail.com
+Meu nome eh Felipe e estudo 🎓Ciencia da Computação🎓 na UNIFAGOC - Ubá- MG (2º período).  🎯 Busco minha primeira oportunidade de estágio em TI/Dev, focando no domínio de algoritmos, estruturas de dados e boas práticas de código.  C | Python | 💼 LinkedIn: https://www.linkedin.com/in/felipe-undefined-ba39b83b4/ E-mail:rafinofelipe@gmail.com
